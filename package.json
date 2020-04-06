@@ -1,0 +1,12 @@
+{
+  "name": "drw",
+  "version": "1.0.0",
+  "description": "Tetris simulation",
+  "main": "tetris.js",
+  "private": true,
+  "dependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
